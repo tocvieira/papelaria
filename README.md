@@ -1,2 +1,2 @@
-# papelaria
-https://www.duckpaper.com.br - Melhor Papelaria Online
+<p>A Duck Paper é a <a href="https://www.duckpaper.com.br">melhor papelaria online</a> para quem busca variedade, qualidade e praticidade em produtos de papelaria. Nossa missão é oferecer uma experiência completa e conveniente, com uma seleção cuidadosa de produtos, incluindo itens de escritório, escolares, artísticos e organizacionais, sempre com ótimos preços e atendimento excepcional. Trabalhamos para garantir que você encontre tudo o que precisa para seu trabalho, estudos ou momentos criativos, com a conveniência de comprar sem sair de casa.
+
